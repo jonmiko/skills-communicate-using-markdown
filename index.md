@@ -7,3 +7,6 @@ Added a large and small header at the top of this file and an image below.
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub Pages
+- [ ] OUtline my portfolio
+- [ ] Introduce myself to the world
